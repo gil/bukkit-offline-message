@@ -1,0 +1,7 @@
+name: bukkit-offline-message
+main: net.somepixels.BukkitOfflineMessagePlugin
+version: 0.0.1
+commands:
+  offmsg:
+    description: Leave an offline message for when other players login on server.
+    usage: /<offmsg> [message]
